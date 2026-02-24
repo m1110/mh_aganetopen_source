@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../guidelinebuddyBackend"
+		},
+		{
+			"path": "../../../../../guideline_buddy"
+		}
+	],
+	"settings": {}
+}
