@@ -90,11 +90,17 @@ export const graphDecisioning = async (state: any) => {
     verbose: false
   })
 
-  // const geminiModel = new ChatGoogleGenerativeAI({
+  //const geminiModel = new ChatGoogleGenerativeAI({
   //   model: 'gemini-pro',
   //   temperature: 0,
   //   verbose: false
-  // })
+  //})
+
+  //const anthropic = new ChatAnthropic({
+  //  model: 'claude-sonnet-4-6',
+  //  temperature: 0,
+  //  verbose: false
+  //})
 
   // Create the LLM chain
   // @ts-ignore
